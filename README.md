@@ -1,0 +1,2 @@
+Week 1: Laying the Foundation 🛠️
+In the first week, I focused on learning core app development concepts, setting up essential tools like Android Studio and Visual Studio Code. This foundational knowledge was crucial for the weeks ahead.
