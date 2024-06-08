@@ -6,3 +6,6 @@ During the second week, I delved into creating efficient, optimized code to enha
 
 Week 3: Building Core Functionalities 🔧
 Week three was all about implementing the app's core features. I translated my theoretical knowledge into practical code, improving the app's functionality and user interface using Flutter's capabilities.
+
+Week 4: Refining and Optimizing 🛠️✨
+In the final week, I focused on refining and optimizing the app. This involved reviewing and enhancing the design and code, ensuring the app was fast, efficient, and ready for deployment.
